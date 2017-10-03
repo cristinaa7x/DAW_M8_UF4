@@ -7,6 +7,7 @@
     <body>
         <?php
             function sumar($i,$j){}
+            function restar($i,$j){}
         ?>
     </body>
 </html>
