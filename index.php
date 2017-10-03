@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-        // put your code here
+            function sumar($i,$j){}
         ?>
     </body>
 </html>
