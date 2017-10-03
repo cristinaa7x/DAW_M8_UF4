@@ -8,6 +8,7 @@
         <?php
             function sumar($i,$j){}
             function restar($i,$j){}
+            function producte($i,$j){}
         ?>
     </body>
 </html>
